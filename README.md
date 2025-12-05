@@ -1,10 +1,3 @@
-structure:
-Matrix/
-├─ src/
-│  └─ Matrix.java
-├─ README.md
-└─ .gitignore
-
 # Matrix Operations
 
 A Java project implementing a `Matrix` class with basic operations:
