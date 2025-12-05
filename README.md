@@ -1,9 +1,9 @@
-structure:
-Matrix/
-├─ src/
-│  └─ Matrix.java
-├─ README.md
-└─ .gitignore
+structure:\n
+Matrix/\n
+├─ src/\n
+│  └─ Matrix.java\n
+├─ README.md\n
+└─ .gitignore\n
 
 # Matrix Operations
 
